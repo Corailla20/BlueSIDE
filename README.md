@@ -10,6 +10,9 @@
 
 [Jar Files - Sources](https://drive.google.com/open?id=0B2sYsdlhPpABZVVwWDBNQXhtaVE)
 
+## UML
+![alt text](https://github.com/Corailla20/BlueSIDE/blob/master/UML.png)
+
 ## Team members
 - Jeremy **MEZHOUD**
 - Wilfried **NGOUANA**
